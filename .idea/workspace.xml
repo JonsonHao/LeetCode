@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -27,18 +27,19 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution234 (1)">
+  <component name="RunManager" selected="Kotlin.Solution876Kt">
     <configuration name="Solution234 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jvav.Solution234" />
       <module name="LeetCode" />
@@ -72,25 +73,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution141Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Solution876Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Solution141Kt" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="kotlin.Solution876Kt" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Solution234" />
+      <item itemvalue="Application.Solution234 (1)" />
+      <item itemvalue="Application.Solution239" />
+      <item itemvalue="Kotlin.Solution876Kt" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution234 (1)" />
         <item itemvalue="Application.Solution239" />
         <item itemvalue="Application.Solution234" />
-        <item itemvalue="Kotlin.Solution141Kt" />
+        <item itemvalue="Kotlin.Solution876Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -108,10 +115,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591678943388">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1046/-1920.0.1920.1050@0.0.1920.1046" timestamp="1591678943388" />
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1591280879860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591280879860" />
+    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591678924401">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1046/-1920.0.1920.1050@0.0.1920.1046" timestamp="1591678924401" />
     <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1591496863531">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
