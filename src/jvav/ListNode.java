@@ -3,7 +3,7 @@ package jvav;
 /**
  * @author created by linjunhao
  * @date 2020/6/4
- * @description
+ * @description 链表节点
  *
  * Definition for singly-linked list.
  * public class ListNode {
