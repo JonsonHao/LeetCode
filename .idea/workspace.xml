@@ -26,8 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6738e21f-989d-40f2-b35e-86e928815292" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/jvav/Solution538.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jvav/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvav/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvav/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,49 +165,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591678943388">
-      <screen x="0" y="0" width="1920" height="1046" />
-    </state>
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1046/-1920.0.1920.1050@0.0.1920.1046" timestamp="1591678943388" />
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1591280879860">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591280879860" />
-    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591678924401">
-      <screen x="0" y="0" width="1920" height="1046" />
-    </state>
-    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1046/-1920.0.1920.1050@0.0.1920.1046" timestamp="1591678924401" />
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1591496863531">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591496863531" />
-    <state width="1396" height="245" key="GridCell.Tab.0.bottom/50.23.1390.877@50.23.1390.877" timestamp="1591314453005" />
-    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1591496863528">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591496863528" />
-    <state width="1396" height="245" key="GridCell.Tab.0.center/50.23.1390.877@50.23.1390.877" timestamp="1591314453004" />
-    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1591496863527">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591496863527" />
-    <state width="1396" height="245" key="GridCell.Tab.0.left/50.23.1390.877@50.23.1390.877" timestamp="1591314453003" />
-    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1591496863529">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591496863529" />
-    <state width="1396" height="245" key="GridCell.Tab.0.right/50.23.1390.877@50.23.1390.877" timestamp="1591314453005" />
-    <state x="461" y="151" key="SettingsEditor" timestamp="1599010077877">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="152" key="SettingsEditor" timestamp="1600652815984">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="151" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599010077877" />
-    <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591850568382">
-      <screen x="0" y="0" width="1920" height="1046" />
-    </state>
-    <state x="752" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1046/-1920.0.1920.1050@0.0.1920.1046" timestamp="1591850568382" />
-    <state x="667" y="295" key="git4idea.merge.GitPullDialog" timestamp="1591850790865">
-      <screen x="0" y="0" width="1920" height="1046" />
-    </state>
-    <state x="667" y="295" key="git4idea.merge.GitPullDialog/0.0.1920.1046/-1920.0.1920.1050@0.0.1920.1046" timestamp="1591850790865" />
+    <state x="461" y="152" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1600652815984" />
   </component>
 </project>
