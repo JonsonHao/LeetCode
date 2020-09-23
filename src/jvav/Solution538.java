@@ -4,7 +4,7 @@ package jvav;
  * @author created by linjunhao
  * @date 2020/9/21
  * @description LeetCode 算法题第 538 题：把二叉树转换成累加树
- * @tag：链表
+ * @tag：二叉树
  * @difficulty：easy
  */
 public class Solution538 {
